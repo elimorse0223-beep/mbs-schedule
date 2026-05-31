@@ -1,1 +1,40 @@
 
+{
+  "2026-09-01": { "rotation": "none", "timing": "none" },
+  "2026-09-02": { "rotation": "none", "timing": "none" },
+
+  "2026-09-03": { "rotation": "none", "timing": "firstday" },
+  "2026-09-04": { "rotation": "none", "timing": "convocation" },
+
+  "2026-09-05": { "rotation": "none", "timing": "none" },
+  "2026-09-06": { "rotation": "none", "timing": "none" },
+  "2026-09-07": { "rotation": "none", "timing": "none" },
+
+  "2026-09-08": { "rotation": "A", "timing": "normal" },
+  "2026-09-09": { "rotation": "B", "timing": "normal" },
+  "2026-09-10": { "rotation": "C", "timing": "normal" },
+  "2026-09-11": { "rotation": "D", "timing": "normal" },
+  "2026-09-12": { "rotation": "E", "timing": "normal" },
+
+  "2026-09-13": { "rotation": "none", "timing": "none" },
+
+  "2026-09-14": { "rotation": "F", "timing": "normal" },
+  "2026-09-15": { "rotation": "G", "timing": "normal" },
+  "2026-09-16": { "rotation": "H", "timing": "normal" },
+  "2026-09-17": { "rotation": "A", "timing": "normal" },
+  "2026-09-18": { "rotation": "B", "timing": "normal" },
+  "2026-09-19": { "rotation": "C", "timing": "normal" },
+  "2026-09-20": { "rotation": "none", "timing": "none" },
+
+  "2026-09-21": { "rotation": "D", "timing": "normal" },
+  "2026-09-22": { "rotation": "E", "timing": "normal" },
+  "2026-09-23": { "rotation": "F", "timing": "normal" },
+  "2026-09-24": { "rotation": "G", "timing": "normal" },
+  "2026-09-25": { "rotation": "H", "timing": "normal" },
+  "2026-09-26": { "rotation": "none", "timing": "none" },
+  "2026-09-27": { "rotation": "none", "timing": "none" },
+
+  "2026-09-28": { "rotation": "A", "timing": "normal" },
+  "2026-09-29": { "rotation": "B", "timing": "normal" },
+  "2026-09-30": { "rotation": "C", "timing": "normal" }
+}
