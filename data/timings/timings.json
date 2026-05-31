@@ -1,0 +1,31 @@
+{
+  "normal": {
+    "blocks": [
+      { "id": "advisory", "start": 480, "end": 485 },
+      { "id": "block1", "start": 490, "end": 550 },
+      { "id": "block2", "start": 555, "end": 615 },
+      { "id": "block3", "start": 620, "end": 680 },
+      { "id": "lunch1", "start": 680, "end": 705 },
+      { "id": "lunch2", "start": 705, "end": 730 },
+      { "id": "flex", "start": 730, "end": 755 },
+      { "id": "block4", "start": 755, "end": 815 },
+      { "id": "block5", "start": 820, "end": 880 },
+      { "id": "collab", "start": 880, "end": 930 }
+    ]
+  },
+
+  "asmFriday": {
+    "blocks": [
+      { "id": "advisory", "start": 480, "end": 485 },
+      { "id": "block1", "start": 490, "end": 550 },
+      { "id": "block2", "start": 555, "end": 615 },
+      { "id": "block3", "start": 620, "end": 680 },
+      { "id": "lunch1", "start": 680, "end": 705 },
+      { "id": "lunch2", "start": 705, "end": 730 },
+      { "id": "flex", "start": 730, "end": 755 },
+      { "id": "assembly", "start": 755, "end": 795 },
+      { "id": "block4", "start": 795, "end": 855 },
+      { "id": "block5", "start": 860, "end": 920 }
+    ]
+  }
+}
