@@ -1,0 +1,34 @@
+school-bell-schedule/
+│
+├── data/                       # ONLY place you edit schedules
+│   ├── calendar/               # yearly CSVs
+│   │   ├── 2026-2027.csv
+│   │
+│   ├── rotations/
+│   │   └── rotations.json
+│   │
+│   ├── timings/
+│   │   └── timings.json
+│   │
+│   └── overrides/
+│       └── overrides.json
+│
+├── engine/                     # all logic lives here
+│   ├── loadCalendar.js
+│   ├── resolveSchedule.js
+│   ├── timeUtils.js
+│   ├── buildDay.js
+│   └── index.js
+│
+├── api/ (optional if backend needed)
+│
+├── frontend/
+│   ├── app.js
+│   ├── components/
+│   └── ui/
+│
+├── scripts/
+│   └── importCSV.js
+│
+├── package.json
+└── README.md
